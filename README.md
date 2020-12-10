@@ -1,8 +1,12 @@
 # Fake-News-Prediction
 
-# server:
+Fake news detection focusses on generating prediction  for a given content in a real-time. Project intends to give user a probability of rumor or news of how much true or fake it is. This is not just a project meant for improving deep learning or statistical concepts but coming to its usage in the real world, fake news prediction is very helpful. Rumor detection and classification of content remains one of the most important and challenging problems for social media networks and others too. So, if a model is developed which makes it easy for its users to identify news, it can be helpful in solving their purpose. Therefore, this project aims at producing prediction captions for real news so that it is easier to figure out and classify them.
+
+# Server:
 Open this file on google colab.
+
 Connect your google drive and add your dataset.
+
 Run the modules
 
 
